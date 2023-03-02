@@ -1,6 +1,6 @@
 import React from "react";
 import foto1 from "../images/karya/boneka.jpg";
-import foto2 from "../images/karya/tengkorak.jpg";
+import foto2 from "../images/stock/foto.jpg";
 import foto3 from "../images/karya/kecik.jpg";
 
 class Kontak extends React.Component {

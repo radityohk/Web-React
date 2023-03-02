@@ -1,5 +1,5 @@
 import React from "react";
-import foto1 from "../images/karya/tengkorak.jpg";
+import foto1 from "../images/stock/foto.jpg";
 
 class TentangSaya extends React.Component {
   render() {
@@ -11,9 +11,9 @@ class TentangSaya extends React.Component {
           </div>
         </div>
         <div className="text-white grid place-items-center text-center  mt-4 text-xl">
-            <h3>Dinosaurus</h3>
-            <p>Hewan keren yang punya muka serem tapi lucu</p>
-            <p>Kalo mau adopt pm nomer di tab Kontak</p>
+            <h4>Radityo Handri Kurniawan</h4>
+            <p>Saya siswa SMK Telkom Malang kelas XI jurusan RPL <br />
+            Back-end Developer</p>
           </div>
       </div>
     );
